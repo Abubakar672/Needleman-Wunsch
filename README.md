@@ -1,10 +1,8 @@
 # Needleman-Wunsch
-# Needleman-Wunsch
 
 [![GitHub contributors](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/abdullahmujahidali/Needleman-Wunsch/pulls)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://opensource.com/users/abdullahmujahidali)
 [![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-
 [![GitHub followers](https://img.shields.io/github/followers/abdullahmujahidali.svg?style=social&label=Follow)](https://github.com/abdullahmujahidali)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdulladgaf.svg?style=social)](https://twitter.com/abdulladgaf)
 
